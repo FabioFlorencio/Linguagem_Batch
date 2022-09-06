@@ -20,4 +20,6 @@ echo %3
 echo %4
 echo %~5
 echo %*
+
+@echo off
 pause >nul
