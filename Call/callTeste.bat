@@ -25,4 +25,4 @@ rem Isso é uma forma de enviar mais de um comando para um arquivo como se fosse
 echo set cor_letra=%cor_letra%
 echo set cor_fundo=%cor_fundo%
 echo set titulo=%titulo%
-)>config.bat
+)config.bat
