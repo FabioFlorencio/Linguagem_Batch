@@ -1,0 +1,22 @@
+@echo off
+
+rem Executar o comando pelo prompt administrador
+
+rem Muda para diretório especificado
+cd\Users\
+
+rem Cria diretório DTI
+md DTI
+cd\Users\DTI\
+
+rem Cria diretório Documents
+md Documents
+cd\Users\DTI\Documents\
+md ALP_Labs
+
+pause
+
+cd\Users\DTI\Documents\ALP_Labs\
+
+
+
