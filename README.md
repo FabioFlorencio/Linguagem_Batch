@@ -8,8 +8,8 @@
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/78650091/220229632-d7f811a0-0762-4f6d-a3ea-81bdb561f1d3.gif)
 
 
-### PDF :file_folder: https://bityli.com/7coed
-### PDF :file_folder: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6976248550846283776/)
+* PDF :file_folder: https://bityli.com/7coed
+* PDF :file_folder: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6976248550846283776/)
 
 <br>
 
