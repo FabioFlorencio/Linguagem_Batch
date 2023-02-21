@@ -9,6 +9,7 @@
 
 
 ### PDF :file_folder: https://bityli.com/7coed
+### PDF :file_folder: [LinkDin](https://www.linkedin.com/feed/update/urn:li:activity:6976248550846283776/)
 
 <br>
 
